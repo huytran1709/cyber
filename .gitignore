@@ -1,0 +1,15 @@
+# Project stuff
+Downloads/
+*.log
+*.sqlite
+config.yaml
+Unsupported_Urls.txt
+URLs_last_post.txt
+
+# Python stuff
+.venv/
+__pycache__/
+*.egg-info/
+build/
+release/
+start_dev.py
